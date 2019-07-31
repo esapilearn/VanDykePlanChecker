@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanDykePlanChecker", "VanDykePlanChecker\VanDykePlanChecker.csproj", "{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Debug|x64.ActiveCfg = Debug|x64
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Debug|x64.Build.0 = Debug|x64
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|x64.ActiveCfg = Release|x64
+		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DA9997-9343-42F1-8DDE-18FA812269E2}
+	EndGlobalSection
+EndGlobal
