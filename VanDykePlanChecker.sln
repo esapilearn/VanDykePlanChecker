@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanDykePlanChecker", "VanDykePlanChecker\VanDykePlanChecker.csproj", "{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanDykePlanCheckerTests", "VanDykePlanCheckerTests\VanDykePlanCheckerTests.csproj", "{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|x64.ActiveCfg = Release|x64
 		{BFB252F9-F3E6-4933-BED2-DE71E07F2E21}.Release|x64.Build.0 = Release|x64
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Debug|x64.ActiveCfg = Debug|x64
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Debug|x64.Build.0 = Debug|x64
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Release|x64.ActiveCfg = Release|x64
+		{C2EF57A8-8FC7-4850-A92C-BE51AA5638DF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
